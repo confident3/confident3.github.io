@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.CVSRuG3h.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"kaifa/26.GO.md","filePath":"kaifa/26.GO.md"}'),h={name:"kaifa/26.GO.md"},k=n("",8),l=[k];function t(p,F,e,g,r,d){return a(),i("div",null,l)}const c=s(h,[["render",t]]);export{C as __pageData,c as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.CVSRuG3h.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"yunwei/25.lua.md","filePath":"yunwei/25.lua.md"}'),t={name:"yunwei/25.lua.md"},l=n("",2),p=[l];function e(h,k,r,d,E,c){return a(),i("div",null,p)}const g=s(t,[["render",e]]);export{y as __pageData,g as default};

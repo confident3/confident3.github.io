@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e,a2 as r}from"./chunks/framework.CVSRuG3h.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"kaifa/29.kfaka.md","filePath":"kaifa/29.kfaka.md"}'),i={name:"kaifa/29.kfaka.md"},k=r("",5),o=[k];function s(n,f,l,c,_,d){return e(),t("div",null,o)}const m=a(i,[["render",s]]);export{h as __pageData,m as default};

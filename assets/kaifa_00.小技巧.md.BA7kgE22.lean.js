@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as s,a2 as t}from"./chunks/framework.CVSRuG3h.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"kaifa/00.小技巧.md","filePath":"kaifa/00.小技巧.md"}'),i={name:"kaifa/00.小技巧.md"},n=t("",3),r=[n];function o(c,l,h,p,_,d){return s(),e("div",null,r)}const u=a(i,[["render",o]]);export{m as __pageData,u as default};

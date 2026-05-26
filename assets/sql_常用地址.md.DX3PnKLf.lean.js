@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a2 as r}from"./chunks/framework.CVSRuG3h.js";const b=JSON.parse('{"title":"jidao","description":"","frontmatter":{},"headers":[],"relativePath":"sql/常用地址.md","filePath":"sql/常用地址.md"}'),o={name:"sql/常用地址.md"},l=r("",33),n=[l];function h(i,s,u,c,d,m){return t(),a("div",null,n)}const f=e(o,[["render",h]]);export{b as __pageData,f as default};

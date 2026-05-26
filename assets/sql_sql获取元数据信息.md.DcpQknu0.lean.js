@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.CVSRuG3h.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sql/sql获取元数据信息.md","filePath":"sql/sql获取元数据信息.md"}'),h={name:"sql/sql获取元数据信息.md"},k=n("",3),l=[k];function p(t,e,r,d,E,g){return a(),i("div",null,l)}const c=s(h,[["render",p]]);export{y as __pageData,c as default};

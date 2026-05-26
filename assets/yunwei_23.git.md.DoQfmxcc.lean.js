@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as t}from"./chunks/framework.CVSRuG3h.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"yunwei/23.git.md","filePath":"yunwei/23.git.md"}'),n={name:"yunwei/23.git.md"},h=t("",1),e=[h];function p(l,k,F,r,d,g){return a(),i("div",null,e)}const C=s(n,[["render",p]]);export{c as __pageData,C as default};

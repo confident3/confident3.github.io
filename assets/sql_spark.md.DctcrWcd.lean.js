@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.CVSRuG3h.js";const F=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sql/spark.md","filePath":"sql/spark.md"}'),h={name:"sql/spark.md"},t=n("",6),k=[t];function l(p,e,E,r,d,g){return a(),i("div",null,k)}const o=s(h,[["render",l]]);export{F as __pageData,o as default};

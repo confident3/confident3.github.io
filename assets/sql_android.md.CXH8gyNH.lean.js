@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,a2 as n}from"./chunks/framework.CVSRuG3h.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sql/android.md","filePath":"sql/android.md"}'),e={name:"sql/android.md"},t=n("",7),r=[t];function l(h,p,d,k,o,F){return i(),a("div",null,r)}const y=s(e,[["render",l]]);export{g as __pageData,y as default};
